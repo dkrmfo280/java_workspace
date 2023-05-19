@@ -20,7 +20,7 @@ public class ConditionPractice {
         System.out.print("정수를 입력하세요 > ");
     	int num = sc.nextInt();
     	 
-    	 if (num <=0) {
+    	 if (num <= 0) {
     	 System.out.println("양수만 입력해주세요.");
     	} else if (num > 0 ) {
     		
